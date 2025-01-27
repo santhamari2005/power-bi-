@@ -1,1 +1,1 @@
-# power-bi-
+# power-bi-simple sales insight dashboard
